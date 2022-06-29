@@ -1,2 +1,2 @@
 # StateLanding_Page
- Projeto criado no intuito de praticar desgin responsivo.
+ Projeto criado no intuito de praticar design responsivo.
